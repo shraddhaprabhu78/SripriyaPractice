@@ -7,6 +7,7 @@ public abstract class A {
 	 void show()
 	{
 		System.out.println("Show method from A abstracct Class");
+		System.out.println();
 	}
 	
 }
