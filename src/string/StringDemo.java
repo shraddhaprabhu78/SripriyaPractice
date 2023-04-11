@@ -19,7 +19,7 @@ public class StringDemo {
 		 String s5= s2.concat("priya");
 		 System.out.println(s2.concat("priya"));
 		 System.out.println(s2);
-		
+		 System.out.println(s2);
 	}
 
 }
